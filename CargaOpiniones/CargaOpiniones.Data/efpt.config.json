@@ -1,0 +1,90 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "AnalisisOpinionesdbContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "IrregularWords": null,
+   "MinimumProductVersion": "2.6.1604",
+   "ModelNamespace": null,
+   "OutputContextPath": "Context",
+   "OutputPath": "Models",
+   "PluralRules": null,
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "CargaOpiniones.Data",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 3,
+   "SelectedToBeGenerated": 0,
+   "SingularRules": null,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[Categorias]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Clasificacion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Clientes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FuentesDatos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Opiniones]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Productos]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SocialComments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Surveys]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TiposFuentes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[WebReviews]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDatabaseNamesForRoutines": true,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": true,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseInternalAccessModifiersForSprocsAndFunctions": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": true,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": true,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false,
+   "UseT4Split": false,
+   "UseTypedTvpParameters": true
+}
